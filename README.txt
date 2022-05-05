@@ -1,6 +1,7 @@
-This repository contains de codes used to produce the main and supplementary figure of the manuscript  "Association mapping of colour variations in a butterfly provides evidences that a supergene locks together a cluster of adaptive loci"
+This repository contains the codes used to produce the main and supplementary figured of the manuscript  "Association mapping of colour variations in a butterfly provides evidences that a supergene locks together a cluster of adaptive loci"
 
-the collection of datasets used in the manuscript can be found at Figshare (doi: 10.6084/m9.figshare.19706320)
+The collection of datasets used in the manuscript can be found at Figshare (doi: 10.6084/m9.figshare.19706320)
+
 ### Datasets that contain the result of association analyses
 AllHn0_Antpost.PC_1_PC_2_PC_3_PC_4.Assoc.mqfam.total.reformate.CHRPos.WithEmpP # Hn0 multivariate association; Only with 4 components (Figure 3)
 AllSample.SupergeneAndFlank.snps.Hn0.CPM_Antpost_Hn0.AllPCs.Assoc.mqfam.total.reformate.CHRPos.WithEmpP # Hn0 multivariate associations ; Wwith all components (Figure S15)
